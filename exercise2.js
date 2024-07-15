@@ -51,7 +51,7 @@ const initialData = [
     const reviewText = document.createElement("textarea");
     reviewText.id = "reviewText";
     
-    // Создание кнопки для отправки отзыва
+    //  Создание кнопки для отправки отзыва
     const submitReview = document.createElement("button");
     submitReview.id = "submitReview";
     submitReview.textContent = "Добавьте Ваш отзыв";
